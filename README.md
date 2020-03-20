@@ -24,7 +24,7 @@ Hints:
 * [Triangle area reference](https://en.wikipedia.org/wiki/Triangle#Computing_the_area_of_a_triangle)
 * [Centroid reference](https://en.wikipedia.org/wiki/Centroid)
 
-NB: You may benefit from introducing more classes.
+*NB: You may benefit from introducing more classes.*
  
 ## Examples
 
@@ -48,7 +48,7 @@ System.out.println(area);
 Output:
 
 ```
-6
+6.0
 ```
 
 ---
@@ -64,8 +64,8 @@ System.out.println(centroid.getY());
 Output:
 
 ```
-1
-1
+1.0
+1.0
 ```
 
 ---
@@ -110,15 +110,3 @@ class Triangle {
     }
 }
 ```
-
-## Steps
-
-1. Follow the given repl.it link to the code sample.
-
-1. Complete the code to make it work as expected. 
-
-1. Ensure you got the assignment message from Examinator (via email).
-
-1. Follow the link and proceed to the assignment.
-
-1. Complete the exercise and submit the result.
